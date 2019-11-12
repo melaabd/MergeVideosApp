@@ -20,8 +20,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9y5-7i-bao">
-                                <rect key="frame" x="163.5" y="198" width="87" height="30"/>
-                                <state key="normal" title="Load Asset 1">
+                                <rect key="frame" x="163" y="198" width="88" height="30"/>
+                                <state key="normal" title="Load Video 1">
                                     <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
@@ -29,8 +29,8 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4TF-ff-3Xd">
-                                <rect key="frame" x="162.5" y="236" width="89" height="30"/>
-                                <state key="normal" title="Load Asset 2">
+                                <rect key="frame" x="162" y="236" width="90" height="30"/>
+                                <state key="normal" title="Load Video 2">
                                     <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
